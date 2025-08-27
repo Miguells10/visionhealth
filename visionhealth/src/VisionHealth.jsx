@@ -73,7 +73,7 @@ const VisionHealth = () => {
             <div className="hero-image">
               <div className="hero-circle">
                 <img 
-                  src="/src/assets/olho_hero.png" 
+                  src="/assets/olho_hero.png" 
                   alt="VisionHealth Hero"
                   className="hero-circle-image"
                 />
@@ -223,7 +223,7 @@ const VisionHealth = () => {
               </p>
                 <div className="phone-screen">
                     <img 
-                      src="/src/assets/iPhones.png" 
+                      src="/assets/iPhones.png" 
                       alt="VisionHealth App"
                       className="phone-screen-image"
                     />  
@@ -248,7 +248,7 @@ const VisionHealth = () => {
           <div className="healthcare-container">
             <div className="healthcare-image">
               <img 
-                src="src/assets/triagem.png" 
+                src="/assets/triagem.png" 
                 alt="Eye screening interface"
                 className="screening-image"
               />
